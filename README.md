@@ -13,7 +13,7 @@ I have uploaded a number of image files and associated "truth" tables to allow y
 
 - OUTPUT_images_Set1_26July2016.zip - (Set of 48) 1385 × 569 pixel JPEG images - showing where eggs have been detected.
 
-- RESULTS_Summary_26July2016.csv - Comma-separated-value file: {Results from my detection process as at 26 July, 2016}
+- RESULTS_Summary_26July2016.csv - Comma-separated-value file: {Results from my detection process as at 26 July, 2016. 47% EXACT match where hens are NOT present; 32% EXACT match where hens are present; 75% of total eggs detected (approx.) where no hens are present}
           - "detected_eggs" - number of eggs DETECTED in the image
           - "detected_hens" - binary (0 or 1) indicating whether there were are any hens DETECTED in the image
           - "filename" - name of the image file
